@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building out the entrepreneurship program at my Nature Co-Op.
 - 📫 How to reach me werz@duck.com
 - 😄 Pronouns: she/her
-- ⚡ Fun facts: I run a Homeschool Nature Co-Op in Utah called [Nature Kids Connect](www.naturekidsconnect.com) and I do all the Tech stuff for it. I travel for food and I love K-dramas.
+- ⚡ Fun facts: I run a Homeschool Nature Co-Op in Utah called [Nature Kids Connect](https://naturekidsconnect.com/) and I do all the Tech stuff for it. I travel for food and I love K-dramas.
 
 <!---
 WeRzl33/WeRzl33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
