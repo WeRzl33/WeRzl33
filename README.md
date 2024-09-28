@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @WeRzl33
+###Hi there 👋
+
+- My name is Worthy. I love optimizing processes to maximum efficiency.
+  
 - 👀 I’m interested in data science, cybersecurity, and AI.
 - 🌱 I’m currently learning data analytics with Tech Moms.
 - 💞️ I’m looking to collaborate on building out the entrepreneurship program at my Nature Co-Op.
